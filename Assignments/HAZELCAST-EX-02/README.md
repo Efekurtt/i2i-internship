@@ -19,27 +19,27 @@ Pull and run Hazelcast and Hazelcast Management Center containers using Docker.
 ## Steps and Screenshots
 
 ### 1. Pull Hazelcast   
-![pull-hazelcast](pull-hazelcast.png)  
+![pull-hazelcast](screenshots/pull-hazelcast.png)  
 Pull the latest Hazelcast from Docker Hub.
 
 ### 2. Run Hazelcast Container  
-![run-hazelcast](run-hazelcast.png)  
+![run-hazelcast](screenshots/run-hazelcast.png)  
 Start the Hazelcast container in detached mode.
 
 ### 3. Pull Management Center Image  
-![pull-management-center](pull-hazelcast-management-center.png)  
+![pull-management-center](screenshots/pull-hazelcast-management-center.png)  
 Pull the latest Management Center from Docker Hub.
 
 ### 4. Run Management Center Container  
-![run-management-center](run-hazelcast-management-center.png)  
+![run-management-center](screenshots/run-hazelcast-management-center.png)  
 Start the Management Center container, mapping port 8080.
 
 ### 5. Verify Running Containers  
-![docker-ps](docker-ps.png)  
+![docker-ps](screenshots/docker-ps.png)  
 Check that both containers are running successfully.
 
 ### 6. Access Management Center UI  
-![web-interface](web-interface-management-center.png)  
+![web-interface](screenshots/web-interface-management-center.png)  
 Access the Management Center web interface at http://localhost:8080.
 
 ---
