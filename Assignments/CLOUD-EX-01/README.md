@@ -28,15 +28,15 @@ Create a new project in the GCP console. (just click "Create Project", name it, 
 Enable the Compute Engine API.
 
 ### 4. Configure VM  
-![step4](screenshots/4-create-vm.png)  
+![step4](screenshots/create-vm.png)  
 Set up your VM with name, region, and machine type.
 
 ### 5. Note IP Address  
-![step5](screenshots/5-vm-instance.png)  
+![step5](screenshots/vm-instance.png)  
 Copy the external IP of your VM.
 
 ### 6. Ping Test  
-![step6](screenshots/6-ping-result.png)  
+![step6](screenshots/ping-result.png)  
 Ping the VM IP from your terminal to verify connectivity.
 
 ---
