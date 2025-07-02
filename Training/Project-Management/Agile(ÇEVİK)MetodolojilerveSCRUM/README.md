@@ -1,9 +1,5 @@
 # Agile, Agile Methodologies and Scrum Course Summary
 
----
-
-## English Summary
-
 This course covers the fundamental concepts of Agile methodologies and the Scrum framework.  
 It explains how Agile promotes flexibility, quick adaptation, and customer focus in software development. The course also details Scrum's key components such as roles, ceremonies, and artifacts.
 
