@@ -4,7 +4,7 @@
 
 This document serves as a summary and proof of completion for the **Foundations of Project Management** course provided by Google via Coursera.
 
-![Certificate Screenshot](google.png)
+![Certificate Screenshot](./screenshots/Google.png)
 
 ---
 
