@@ -21,7 +21,7 @@ As shown below, an attempt was made to connect through DBeaver:
 
 📸 **DBeaver Settings and Error Message:**
 
-![Dbeaver](./Dbeaver.png)
+![Dbeaver](./screenshots/Dbeaver.png)
 
 DBeaver returned the following error:
 
@@ -34,7 +34,7 @@ This error indicates that the JDBC connection string was considered invalid, eve
 
 📸 **Running VoltDB Container Details:**
 
-![Dockerps](./Dockerps.png)
+![Dockerps](./screenshots/Dockerps.png)
 
 The Docker container shows that the following ports are exposed:
 
