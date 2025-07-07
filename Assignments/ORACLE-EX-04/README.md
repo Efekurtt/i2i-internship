@@ -25,10 +25,10 @@ The application `BookInsert.java` was executed from terminal using Oracle JDBC t
 ## Screenshots
 
 ### 1. Java application successfully executed  
-![Java Insert Success](./01_java_book_insert_success.png)
+![Java Insert Success](./screenshots/java_book_insert_success.png)
 
 ### 2. Inserted records verified via SQL Developer  
-![SQL Developer Records](./02_sql_developer_book_records.png)
+![SQL Developer Records](./screenshots/sql_developer_book_records.png)
 
 ---
 
