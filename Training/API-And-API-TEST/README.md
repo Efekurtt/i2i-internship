@@ -67,7 +67,6 @@ Below is a screenshot confirming successful completion of the course:
 
 ![Course Completion Screenshot](./screenshots/completion-screenshot.png)
 
-> Replace the image path with your uploaded screenshot on GitHub.
 
 ---
 
